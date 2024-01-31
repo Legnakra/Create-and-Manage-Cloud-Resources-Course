@@ -33,6 +33,8 @@ Clicamos en crear y esperamos un par de minutos hasta que se cree nuestra máqui
 
 ![2](https://github.com/Legnakra/Create-and-Manage-Cloud-Resources-Course/assets/98739593/d41dffba-7219-47f2-b797-55838d1a1234)
 
+## Tarea 2: Creamos un cluster de kubernetes
+
 Para construir el cluster de Kubernetes, vamos a usar el comando `gcloud container clusters create`. Este comando nos permite crear un clúster de Kubernetes en Google Kubernetes Engine.
 
 Los requisitos son los siguientes:
